@@ -1,0 +1,24 @@
+2023-12-27 09:15:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:15:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team where studentId = ? [42102-214]
+2023-12-27 09:15:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:16:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:25:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:31:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:36:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
+2023-12-27 09:44:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found; SQL statement:
+select * from team [42102-214]
